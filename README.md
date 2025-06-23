@@ -59,7 +59,7 @@ Place the `train.csv` file in the same directory as the script.
 You can execute the script using:
 
 ```
-python digit_classifier.py
+neural_network.py
 ```
 
 This will start the training process, printing accuracy every 10 iterations.
